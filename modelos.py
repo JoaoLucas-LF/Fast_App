@@ -6,7 +6,7 @@ from sqlalchemy_utils.types import ChoiceType
 
 
 
-#conexao do banco
+#conexao do banco de dados
 db = create_engine("sqlite:///banco.db")
 
 #base de dados do banco

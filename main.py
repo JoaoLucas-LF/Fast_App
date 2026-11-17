@@ -16,7 +16,7 @@ Para criar uma rota, é necessário definir:
 - endpoint:
  / ordens
 Tipo de requisição que irá ser associado a ela
-
+------------------------------------------------
 Rest APIs
 Get -> Leitura/pegar
 Post -> Enviar/Criar
